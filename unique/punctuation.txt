@@ -1,0 +1,48 @@
+PUNCTUATION_01 – Minimal & Clean
+
+Use only basic sentence punctuation: periods, commas, single question marks and exclamation marks. No arrows, no ellipsis, no emojis, no fancy symbols. Keep it clean and readable.
+
+PUNCTUATION_02 – Statement + Line-Break Question
+
+Use standard punctuation for statements (periods, commas). If you add a question to the reader, put it on a new line and end it with a single "?". Do not attach the question with dashes or other separators.
+
+PUNCTUATION_03 – Commas & Soft Dashes
+
+Allow commas to chain short phrases, and occasional " – " or " — " to create light breaks inside a sentence. No double "!!" or "??", no ellipsis; the flow feels spoken but structured.
+
+PUNCTUATION_04 – Arrow & Math-Like Flow
+
+Enable patterns like "→", "->", "=", "%" inside a single line when describing relationships or rough math (e.g. volume → attention, X% allocation = Y outcome). Keep them rare and purposeful.
+
+PUNCTUATION_05 – Hashtag Cluster at the End
+
+Use mostly normal punctuation in the main sentence(s), and then finish the tweet with a short block of 2–5 hashtags. No punctuation between hashtags other than spaces.
+
+PUNCTUATION_06 – Handle & URL Heavy
+
+Allow "@" handles and at most one URL in the tweet. Punctuation stays simple around them (line breaks, commas, periods). No arrows or math symbols in this profile.
+
+PUNCTUATION_07 – Structured Lines with Colons
+
+Use ":" to introduce short labeled parts (e.g. "Upside: …", "Context: …"). Keep the rest of punctuation basic (commas, periods, single question marks), no arrows or ellipsis.
+
+PUNCTUATION_08 – Ellipsis & Trailing Thoughts
+
+Allow "..." or "…" at most once, to show a trailing thought or soft pause. Combine with regular punctuation; avoid multiple ellipses in one tweet.
+
+PUNCTUATION_09 – Light Exclamation Emphasis
+
+Permit a single "!" or "!!" in the tweet, usually once at the end of a sentence. No mix of "?!", and keep the rest of punctuation standard (periods, commas, single "?").
+
+PUNCTUATION_10 – Quoted Phrases
+
+Allow one short quoted fragment using "" or "". The rest of the tweet uses normal punctuation (commas, periods, question marks) without arrows, math symbols or ellipsis.
+
+PUNCTUATION_11 – Parenthetical Asides
+
+Allow one set of parentheses "( )" to add a side remark or clarification mid-sentence. Avoid other complex constructs (no arrows, math symbols, ellipsis).
+
+PUNCTUATION_12 – Multi-Line List Feel
+
+Use line breaks as the main structuring tool: short phrases or mini-sentences on separate lines. Inside each line, keep punctuation minimal (mostly commas or periods), no arrows or math expressions.
+

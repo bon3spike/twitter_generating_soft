@@ -1,0 +1,59 @@
+STYLE_01 – Short Statement
+One compact sentence or two very short sentences. Direct, to the point, no extra framing.
+
+STYLE_02 – Two-Sentence Micro-Take
+First sentence sets the observation; second sentence gives a small conclusion or impression. No question at the end.
+
+STYLE_03 – Question-Led
+Start with a question or end with a clear question to the reader. The question is the main hook of the tweet.
+
+STYLE_04 – Contrast Format
+Use a light contrast like “instead of X, people do Y” or “before it was X, now it feels more like Y”, keeping it simple and conversational.
+
+STYLE_05 – Micro-Story
+Write like a tiny story or anecdote in one or two sentences (“the first time I opened…”, “at some point I realized…”), still under 280 characters.
+
+STYLE_06 – List-Feel in One Line
+Use commas or short phrases to stack 2–4 elements in one line (e.g. “markets, arguments, weird takes – all funneling into…”), without real bullet formatting.
+
+STYLE_07 – Punchline Ending
+Build up a simple situation or observation and finish with a short punchline at the end of the tweet, slightly humorous but not over the top.
+
+STYLE_08 – GM / Stream-of-Thought
+Use a relaxed, “timeline scrolling” style that could fit into a gm or daily-thought tweet, with smooth, informal phrasing.
+
+STYLE_09 – Observation from the Sidelines
+Write as if you’re watching from the side: “from the outside”, “from my timeline it looks like…”, without sounding like an official voice.
+
+STYLE_10 – Collective “We”
+Use “we” or “a lot of us” to frame the tweet as a shared experience of crypto Twitter or the broader community rather than just one individual.
+
+STYLE_11 – Detached / Minimalist
+Very few words, almost minimal commentary. Clean, slightly detached style, but still human and not robotic.
+
+STYLE_12 – Reflective Note
+Slightly more reflective structure: start with what’s happening now, then a short thought about what it might mean or why it feels interesting.
+
+STYLE_13 – Thread-Lite in One Tweet
+Structure the tweet as if it compresses a mini-thread into one post: “first… then… now…”, giving a sense of progression in a single message.
+
+STYLE_14 – Call & Response
+Start with a short statement, then follow it with a mini reaction in the same tweet (e.g. “That’s wild. But it makes sense.”), giving a conversational feel.
+
+STYLE_15 – Zoom-In Detail
+Open with a single specific detail or behavior (e.g. one type of user action) and expand briefly on why it’s interesting, without broad generalizations.
+
+STYLE_16 – Quote-Like Reflection (No Actual Quotes)
+Write as if paraphrasing a thought you’ve heard in the community, but without using quotation marks; it should feel like a distilled community sentiment.
+
+STYLE_17 – Checklist Rhythm
+Use a light checklist rhythm in natural language (e.g. “shows up in feeds, gets tested by degens, sticks for the ones who like prediction markets”), no bullets, only commas or semicolons.
+
+STYLE_18 – Pivot in the Middle
+Start in one direction (“at first it looked like just another platform”) and mid-tweet pivot to a different take (“but after watching it longer, it feels like a real signal source”).
+
+STYLE_19 – Question Tagged Onto a Statement
+Begin with a clear statement, then add a short, sharp question at the very end, separated by a dash or a brief pause.
+
+STYLE_20 – “Thinking Out Loud”
+Write as if you are literally narrating your thoughts while scrolling: slightly fragmented but coherent, with natural pauses and informal connectors.

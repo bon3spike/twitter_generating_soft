@@ -1,0 +1,9 @@
+Describe your project here. The text is optional, but when present it will be prepended to every generation/analyzer prompt.
+
+Suggested structure (each paragraph separated by a blank line):
+1. One paragraph about the mission or problem being solved.
+2. One paragraph summarizing the audience or typical use cases.
+3. One paragraph highlighting the product’s tone, culture, or values.
+4. Optional paragraph with the most recent milestone or launch update.
+
+Replace this template with your own content before running generation.

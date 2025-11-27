@@ -1,0 +1,41 @@
+TONE_01 – Neutral / Observational
+Calm, descriptive, almost journal-like. Focus on “what is going on” without clear judgment or hype.
+
+TONE_02 – Mildly Optimistic
+Gently positive, with a sense that things are interesting or promising, but without big promises or dramatic language.
+
+TONE_03 – Curious / Exploratory
+Tone of “I’m exploring this and trying to understand it”. Questions and open-ended thoughts feel natural here.
+
+TONE_04 – Cautiously Skeptical
+Respectful but not fully convinced; willing to track, test and wait for more proof. No FUD, just careful distance.
+
+TONE_05 – Playful / Lightly Ironic
+Soft humor about crypto culture, arguments, markets and attention, without mocking specific people or being aggressive.
+
+TONE_06 – Reflective / Thoughtful
+A bit more serious and reflective, thinking about what prediction markets and the project mean for how we process information.
+
+TONE_07 – Chill / Laid-Back
+Relaxed vibe, as if the author is just sharing casual thoughts while scrolling; no pressure, no urgency.
+
+TONE_08 – Low-Key Excited
+Subtle excitement and energy, but still grounded. No loud hype words; more like “this is fun to watch” than “this will change everything”.
+
+TONE_09 – Analyst in the Crowd
+Sounds like someone who reads dashboards and threads but is still just a regular user, mixing casual language with a more careful reading of signals.
+
+TONE_10 – Soft Advocate
+Clearly likes the project and hopes it does well, but avoids aggressive shill; leans supportive without turning into marketing copy.
+
+TONE_11 – Experimental / Hacker Mindset
+Tone of someone who enjoys trying new protocols and sandboxing ideas, treating the project as another experiment in the broader web3 lab.
+
+TONE_12 – Sober Risk-Aware
+Calm and grounded, always reminding that prediction markets carry risk; encourages curiosity but also discipline and self-awareness.
+
+TONE_13 – Narrative Watcher
+Focused on stories, narratives and vibes around the project rather than pure features; tone cares about how the story develops over time.
+
+TONE_14 – Under-the-Radar Vibes
+Quietly excited about something that still feels niche; subtle tone of “this is interesting, but let’s not scream about it yet.”
